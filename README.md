@@ -7,4 +7,6 @@ No screen output - via http port 8000/video_feed (mjpeg stream)
 
 Models not included - available freely elsewhere
 
+Requires opencv + imutils
+
 Custom ROS Message for data
