@@ -3,7 +3,7 @@ Coral TPU, Haar, AprilTag, Caffe, Object Detection with ROS publisher and Flask 
 
 A multithreaded solution for object detection, ROS publishing and output to MJPEG Stream from a raspberry Pi 4 with Coral Edge TPU USB Device.
 
-No screen output - via http port 8000 (mjpeg stream)
+No screen output - via http port 8000/video_feed (mjpeg stream)
 
 Models not included - available freely elsewhere
 
