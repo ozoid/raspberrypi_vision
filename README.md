@@ -9,4 +9,4 @@ Models not included - available freely elsewhere
 
 Requires opencv + imutils
 
-Custom ROS Message for data
+Custom ROS Message for data - publishes on /vision_detect topic
